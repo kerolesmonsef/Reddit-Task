@@ -81,7 +81,8 @@
                               `;
                         });
                         output += '</div>';
-                        document.getElementById('results').innerHTML = output;
+                        $("#results").children().remove();
+                        $("#results").append(output);
                     }
                 });
 
