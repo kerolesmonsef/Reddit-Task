@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5419de55-4885-4110-ba44-89ac9efee70c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/reddit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/database/database.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/ModeratorSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/ModeratorSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606158207778</updated>
       <workItem from="1606158241612" duration="717000" />
-      <workItem from="1606161636491" duration="7625000" />
+      <workItem from="1606161636491" duration="8512000" />
     </task>
     <servers />
   </component>
@@ -191,13 +191,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606162898951" />
-    <state x="518" y="295" key="NewPhpFileDialog" timestamp="1606162992373">
+    <state x="518" y="295" key="NewPhpFileDialog" timestamp="1606175589819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="518" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606162992373" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606169275951">
+    <state x="518" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606175589819" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606175706783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606169275951" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606175706783" />
   </component>
 </project>
