@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5419de55-4885-4110-ba44-89ac9efee70c" name="Default Changelist" comment="" />
+    <list default="true" id="5419de55-4885-4110-ba44-89ac9efee70c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606158207778</updated>
       <workItem from="1606158241612" duration="717000" />
-      <workItem from="1606161636491" duration="6448000" />
+      <workItem from="1606161636491" duration="7382000" />
     </task>
     <servers />
   </component>
